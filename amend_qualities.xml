@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This file is part of Chummer5a.
+
+    Chummer5a is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Chummer5a is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Chummer5a.  If not, see <http://www.gnu.org/licenses />.
+
+    You can obtain the full source code for Chummer5a at
+    https://github.com/chummer5a/chummer5a
+-->
+<chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema qualities.xsd">
+  <!--Region Shadowrun Core Positive Qualities -->
+  <qualities>
+    <!--Region Shadowrun Core  Qualities -->
+    <quality>
+      <id>db579224-99c7-48e0-84ab-77a987a84f4a</id>
+      <name>Double Jointed</name>
+      <notes>A character with the quality Double Jointed is able to fit through an opening no smaller than their hips. A character with three ranks of Flexibility can fit through an opening no smaller than their skull.</notes>
+    </quality>
+    <quality>
+      <name>SINner (Corporate)</name>
+      <bonus>
+        <addgear>
+            <name>Corporate SIN</name><!--Legal Sin -->
+            <category>ID/Credsticks</category>
+            <rating>6</rating>
+        </addgear>
+      </bonus>
+    </quality>
+    <quality>
+      <name>SINner (National)</name>
+      <bonus>
+        <addgear>
+            <name>National SIN</name> <!--Legal Sin -->
+            <category>ID/Credsticks</category>
+            <rating>6</rating>
+        </addgear>
+      </bonus>
+    </quality>
+    <quality>
+      <name>SINner (Corporate Limited)</name>
+      <bonus>
+        <addgear>
+            <name>Corporate Limited SIN</name> <!--Legal Sin -->
+            <category>ID/Credsticks</category>
+            <rating>6</rating>
+        </addgear>
+      </bonus>
+    </quality>
+    <quality>
+      <name>SINner (Criminal)</name>
+      <bonus>
+        <addgear>
+            <name>Criminal SIN</name> <!--Legal Sin -->
+            <category>ID/Credsticks</category>
+            <rating>6</rating>
+        </addgear>
+      </bonus>
+    </quality>
+    <quality>
+      <id>4adeb2d4-e42e-4b7a-9a5d-3df325ae59a5</id>
+      <name>Aspected Magician</name>
+      <hide />
+    </quality>
+    <!-- End Region-->
+    <!--Region Bullets and Bandages Negative Qualities -->
+    <quality>
+      <name>Pregnant</name>
+      <hide />
+    </quality>
+    <!-- End Region-->
+    <!--Region Sail Away, Sweet Sister Positive Qualities -->
+    <!-- End Region-->
+    <!--Region Run Faster -->
+    <!--Region Run Faster Positive Qualities -->
+    <quality>
+      <id>e07fc29c-55cc-46b3-af56-3b1de76f0a89</id>
+      <name>Friends in High Places</name>
+      <notes>A third restriction is added to Friends in High Places: The sum of Connection and Loyalty for each contact purchased with the Friends in High Places bonus karma may not exceed 12.</notes>
+    </quality>
+    <!-- End Region-->
+    <!--Region Run Faster Negative Qualities -->
+    <!-- End Region -->
+    <!-- Region Run Faster Infected Qualities -->
+    <!-- End Region -->
+    <!-- Region Data Trails-->
+    <!--Region Data Trails Positive Qualities -->
+    <!-- End Region -->
+    <!--Region Data Trails Negative Qualities -->
+    <!-- End Region -->
+    <!-- End Region -->
+    <!-- Region Chrome Flesh -->
+    <quality>
+      <name>Revels in Murder</name>
+      <hide />
+    </quality>
+    <!--Region Chrome Flesh Positive Qualities -->
+    <quality>
+      <id>08c4dfad-3661-48d9-a265-43cce84e20d8</id>
+      <name>Prototype Transhuman</name>
+      <notes>Bioware purchased as part of the Prototype Transhuman quality are not subject to degradation from becoming infected, or for rejection from regeneration. </notes>
+    </quality>
+    <!-- End Region -->
+    <!--Region Chrome Flesh Negative Qualities -->
+    <!-- End Region -->
+    <!-- End Region -->
+    <!-- Region Hard Targets -->
+    <!-- Region Hard Targets Negative Qualities-->
+    <!-- End Region -->
+    <!-- End Region -->
+    <!-- Region Rigger 5.0-->
+    <!-- Region Negative Qualities -->
+    <!-- End Region -->
+    <!-- End Region -->
+    <!-- Region Howling Shadows -->
+    <!-- End Region -->
+    <!-- Region Cutting Aces -->
+    <!-- Region Negative Qualities -->
+    <!-- End Region -->
+    <!-- End Region -->
+    <!-- Region Forbidden Arcana -->
+    <quality>
+      <name>Enchanter</name>
+      <hide />
+    </quality>
+    <!-- Region Mastery Qualities -->
+
+
+<!--    <quality>
+      <name>Revenant Adept</name>
+      <forbidden>
+        <oneof>
+          <quality>Mystic Adept</quality>
+        </oneof>
+      </forbidden>
+    </quality> -->
+    <!-- End Region -->
+    <!-- End Region -->
+	  <!--Region Dark Terrors -->
+	  <!-- Region Street Lethal -->
+
+	  <!-- End Region -->
+	  <!-- Region Kill Code -->
+	  <quality>
+      <name>Echo Chamber</name>
+      <hide />
+    </quality>
+    <quality>
+      <id>cc967d0f-6b7a-4c62-b202-37f94242169c</id>
+      <name>Groveler</name>
+      <notes>The Groveler quality (Kill Code) adjusts the Limit of your next Resonance action to the number of datachip sets consumed. It does not change Fading.
+
+Furthermore, for clarity: destroying one or more sets of datachips can be done as a Use Simple Device action. You must physically destroy the datachips, and must do so yourself, and so must be in AR or have a method to control your ambulation while in VR. A character can destroy chips in AR and then switch to VR to perform the Complex Form they intend.
+</notes>
+    </quality>
+	  <!-- End Region -->
+	  <!-- Region Better Than Bad -->
+    <quality>
+      <id>ef40cac3-d81e-4c7f-b14d-46abfd2f9dff</id>
+      <name>Instinctive Hack</name>
+      <notes>Cost: 2 Karma You haven’t lived this long by treating hacking as a luxury. You use it to survive. When you see life going lopsided, your gut reaction is to hack for your life. Most of the time, you don’t even need to think about it.
+Unless surprised, you can make one of the following actions before Initiative is rolled for the first time in a combat (Physical or Matrix): Brute Force, Hack on the Fly, or Matrix Perception.
+If two or more characters have this quality, use ERIC (Edge, Reaction, Intuition, Coin toss) to decide who goes first.
+      </notes>
+    </quality>
+	  <!-- End Region -->
+	  <!-- Region Better Than Bad -->
+	  <quality>
+      <name>Stolen Gear</name>
+      <hide />
+    </quality>
+    <quality>
+      <id>c0d411e6-ca88-4011-b56c-9f594882beb4</id>
+      <name>Dead SIN</name>
+       <bonus>
+        <addgear xpathfilter="">
+          <name amendoperation="replace">Dead SIN</name> <!--Legal Sin -->
+          <category>ID/Credsticks</category>
+          <rating>6</rating>
+          <children amendoperation="replace">
+            <child>
+              <name>Legal License</name>
+              <category>ID/Credsticks</category>
+              <rating>3</rating>
+            </child>
+            <child>
+              <name>Legal License</name>
+              <category>ID/Credsticks</category>
+              <rating>3</rating>
+            </child>
+            <child>
+              <name>Legal License</name>
+              <category>ID/Credsticks</category>
+              <rating>3</rating>
+            </child>
+          </children>
+        </addgear>
+      </bonus>
+      <notes>In addition to a fake SIN granted by this quality, your full biometrics are on file with the Global SIN registry, and you should specify where that SIN originates
+
+Even when broadcasting a different SIN, if your biometrics are scanned, the scanner will test first against the R3 Fake SIN to see if the quality is triggered.
+      </notes>
+    </quality>
+
+	  <!-- End Region -->
+    <!-- Region No Future -->
+    <quality>
+      <id>7d1bedb9-5d27-419f-bc15-0a39d9b67516</id>
+      <name>Candle in the Darkness</name>
+      <notes>Effective Loyalty cannot exceed 6.
+Loyalty 6 contacts are "immune" to this quality - they will not think less of you solely due to you tarnishing your reputation. You'd have to do far worse to them to lose loyalty.
+Loyalty 1 contacts whose effective loyalty becomes 0 (generally) won't dump you permanently, but they will NOT help you in any way until you make amends and their effective loyalty increases above 0 again.
+      </notes>
+    </quality>
+    <!-- End Region -->
+    <!--Testing-->
+  </qualities>
+</chummer>

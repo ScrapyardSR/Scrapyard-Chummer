@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This file is part of Chummer5a.
+
+    Chummer5a is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Chummer5a is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Chummer5a.  If not, see <http://www.gnu.org/licenses />.
+
+    You can obtain the full source code for Chummer5a at
+    https://github.com/chummer5a/chummer5a
+-->
+<chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema qualities.xsd">
+  <qualities>
+    <quality>
+      <id>748ef669-5aec-41e8-9301-b1cd70b96030</id>
+      <name>Aspected Enchanter</name>
+      <karma>15</karma>
+      <category>Positive</category>
+      <contributetolimit>False</contributetolimit>
+      <onlyprioritygiven/>
+      <bonus>
+        <enableattribute>
+          <name>MAG</name>
+        </enableattribute>
+        <enabletab>
+          <name>magician</name>
+        </enabletab>
+        <unlockskills>Enchanting</unlockskills>
+      </bonus>
+      <forbidden>
+        <oneof>
+          <quality>Aware</quality>
+          <quality>Enchanter</quality>
+          <quality>Explorer</quality>
+          <quality>Apprentice</quality>
+          <quality>Magician</quality>
+          <quality>Mystic Adept</quality>
+          <quality>Adept</quality>
+          <quality>Technomancer</quality>
+          <quality>Aspected Conjuror</quality>
+          <quality>Aspected Sorcerer</quality>
+        </oneof>
+      </forbidden>
+      <source>SR5</source>
+      <page>69</page>
+      <nameonpage>Aspected Magicians</nameonpage>
+    </quality>
+    <quality>
+      <id>cb646f99-7882-494a-af9f-5309f8ccaa97</id>
+      <name>Aspected Conjuror</name>
+      <karma>15</karma>
+      <category>Positive</category>
+      <contributetolimit>False</contributetolimit>
+      <onlyprioritygiven/>
+      <bonus>
+        <enableattribute>
+          <name>MAG</name>
+        </enableattribute>
+        <enabletab>
+          <name>magician</name>
+        </enabletab>
+        <unlockskills>Conjuring</unlockskills>
+      </bonus>
+      <forbidden>
+        <oneof>
+          <quality>Aware</quality>
+          <quality>Enchanter</quality>
+          <quality>Explorer</quality>
+          <quality>Apprentice</quality>
+          <quality>Magician</quality>
+          <quality>Mystic Adept</quality>
+          <quality>Adept</quality>
+          <quality>Technomancer</quality>
+          <quality>Aspected Sorcerer</quality>
+          <quality>Aspected Enchanter</quality>
+        </oneof>
+      </forbidden>
+      <source>SR5</source>
+      <page>69</page>
+      <nameonpage>Aspected Magicians</nameonpage>
+    </quality>
+    <quality>
+      <id>afd47d38-9e2a-4b93-9bc7-25092e7a87e9</id>
+      <name>Aspected Sorcerer</name>
+      <karma>15</karma>
+      <category>Positive</category>
+      <contributetolimit>False</contributetolimit>
+      <onlyprioritygiven/>
+      <bonus>
+        <enableattribute>
+          <name>MAG</name>
+        </enableattribute>
+        <enabletab>
+          <name>magician</name>
+        </enabletab>
+        <unlockskills>Sorcery</unlockskills>
+      </bonus>
+      <forbidden>
+        <oneof>
+          <quality>Aware</quality>
+          <quality>Enchanter</quality>
+          <quality>Explorer</quality>
+          <quality>Apprentice</quality>
+          <quality>Magician</quality>
+          <quality>Mystic Adept</quality>
+          <quality>Adept</quality>
+          <quality>Technomancer</quality>
+          <quality>Aspected Conjuror</quality>
+          <quality>Aspected Enchanter</quality>
+        </oneof>
+      </forbidden>
+      <source>SR5</source>
+      <page>69</page>
+      <nameonpage>Aspected Magicians</nameonpage>
+    </quality>
+  </qualities>
+</chummer>

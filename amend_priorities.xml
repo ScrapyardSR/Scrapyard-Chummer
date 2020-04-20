@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This file is part of Chummer5a.Chummer5a is free software: you can redistribute it and/or modifyit under the terms of the GNU General Public License as published bythe Free Software Foundation, either version 3 of the License, or(at your option) any later version.Chummer5a is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied warranty ofMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See theGNU General Public License for more details.You should have received a copy of the GNU General Public Licensealong with Chummer5a. If not, see <http://www.gnu.org/licenses/>.You can obtain the full source code for Chummer5a athttps://github.com/chummer5a/chummer5a -->
+
+<chummer xsi:schemaLocation="http://www.w3.org/2001/XMLSchema priorities.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <priorities>
+    <priority>
+      <name>B - Adept, Magician, or Technomancer</name>
+      <talents>
+        <talent  xpathfilter="value = 'Aspected Magician'" amendoperation="remove" />
+        <talent>
+          <name>Aspected Conjuror - 5 Magic</name>
+          <value>Aspected Conjuror</value>
+          <qualities>
+            <quality>Aspected Conjuror</quality>
+          </qualities>
+          <skillchoices>
+            <skill>Banishing</skill>
+            <skill>Binding</skill>
+            <skill>Summoning</skill>
+          </skillchoices>
+          <magic>5</magic>
+          <skillqty>3</skillqty>
+          <skillval>4</skillval>
+          <skilltype>specific</skilltype>
+          <forbidden>
+            <oneof>
+              <metatype>A.I.</metatype>
+            </oneof>
+          </forbidden>
+        </talent>
+        <talent>
+          <name>Aspected Sorcerer - 5 Magic</name>
+          <value>Aspected Sorcerer</value>
+          <qualities>
+            <quality>Aspected Sorcerer</quality>
+          </qualities>
+          <skillchoices>
+            <skill>Counterspelling</skill>
+            <skill>Ritual Spellcasting</skill>
+            <skill>Spellcasting</skill>
+          </skillchoices>
+          <magic>5</magic>
+          <skillqty>3</skillqty>
+          <skillval>4</skillval>
+          <skilltype>specific</skilltype>
+          <forbidden>
+            <oneof>
+              <metatype>A.I.</metatype>
+            </oneof>
+          </forbidden>
+        </talent>
+      </talents>
+    </priority>
+    <priority>
+      <name>C - Adept, Magician, or Technomancer</name>
+      <talents>
+        <talent  xpathfilter="value = 'Aspected Magician'" amendoperation="remove" />
+        <talent xpathfilter="value = 'Enchanter'" amendoperation="remove" />
+        <talent>
+          <name>Aspected Enchanter - 5 Magic</name>
+          <value>Aspected Enchanter</value>
+          <qualities>
+            <quality>Aspected Enchanter</quality>
+          </qualities>
+          <skillchoices>
+            <skill>Alchemy</skill>
+            <skill>Artificing</skill>
+            <skill>Disenchanting</skill>
+          </skillchoices>
+          <magic>5</magic>
+          <skillqty>3</skillqty>
+          <skillval>4</skillval>
+          <skilltype>specific</skilltype>
+          <forbidden>
+            <oneof>
+              <metatype>A.I.</metatype>
+            </oneof>
+          </forbidden>
+        </talent>
+        <talent>
+          <name>Aspected Conjuror - 3 Magic</name>
+          <value>Aspected Conjuror</value>
+          <qualities>
+            <quality>Aspected Conjuror</quality>
+          </qualities>
+          <skillchoices>
+            <skill>Banishing</skill>
+            <skill>Binding</skill>
+            <skill>Summoning</skill>
+          </skillchoices>
+          <magic>3</magic>
+          <skillqty>3</skillqty>
+          <skillval>2</skillval>
+          <skilltype>specific</skilltype>
+          <forbidden>
+            <oneof>
+              <metatype>A.I.</metatype>
+            </oneof>
+          </forbidden>
+        </talent>
+
+        <talent>
+          <name>Aspected Sorcerer - 3 Magic</name>
+          <value>Aspected Sorcerer</value>
+          <qualities>
+            <quality>Aspected Sorcerer</quality>
+          </qualities>
+          <skillchoices>
+            <skill>Counterspelling</skill>
+            <skill>Ritual Spellcasting</skill>
+            <skill>Spellcasting</skill>
+          </skillchoices>
+          <magic>3</magic>
+          <skillqty>3</skillqty>
+          <skillval>2</skillval>
+          <skilltype>specific</skilltype>
+          <forbidden>
+            <oneof>
+              <metatype>A.I.</metatype>
+            </oneof>
+          </forbidden>
+        </talent>
+      </talents>
+    </priority>
+    <priority>
+      <name>D - Adept or Aspected Magician</name>
+      <talents>
+        <talent  xpathfilter="value = 'Aspected Magician'" amendoperation="remove" />
+        <talent>
+          <name>Aspected Enchanter - 2 Magic</name>
+          <value>Aspected Enchanter</value>
+          <qualities>
+            <quality>Aspected Enchanter</quality>
+          </qualities>
+          <skillchoices>
+            <skill>Alchemy</skill>
+            <skill>Artificing</skill>
+            <skill>Disenchanting</skill>
+          </skillchoices>
+          <magic>2</magic>
+          <skillqty>3</skillqty>
+          <skillval>0</skillval>
+          <skilltype>specific</skilltype>
+          <forbidden>
+            <oneof>
+              <metatype>A.I.</metatype>
+            </oneof>
+          </forbidden>
+        </talent>
+      </talents>
+      <talents>
+        <talent>
+          <name>Aspected Conjuror - 2 Magic</name>
+          <value>Aspected Conjuror</value>
+          <qualities>
+            <quality>Aspected Conjuror</quality>
+          </qualities>
+          <skillchoices>
+            <skill>Banishing</skill>
+            <skill>Binding</skill>
+            <skill>Summoning</skill>
+          </skillchoices>
+          <magic>2</magic>
+          <skillqty>3</skillqty>
+          <skillval>0</skillval>
+          <skilltype>specific</skilltype>
+          <forbidden>
+            <oneof>
+              <metatype>A.I.</metatype>
+            </oneof>
+          </forbidden>
+        </talent>
+      </talents>
+      <talents>
+        <talent>
+          <name>Aspected Sorcerer - 2 Magic</name>
+          <value>Aspected Sorcerer</value>
+          <qualities>
+            <quality>Aspected Sorcerer</quality>
+          </qualities>
+          <skillchoices>
+            <skill>Counterspelling</skill>
+            <skill>Ritual Spellcasting</skill>
+            <skill>Spellcasting</skill>
+          </skillchoices>
+          <magic>2</magic>
+          <skillqty>3</skillqty>
+          <skillval>0</skillval>
+          <skilltype>specific</skilltype>
+          <forbidden>
+            <oneof>
+              <metatype>A.I.</metatype>
+            </oneof>
+          </forbidden>
+        </talent>
+      </talents>
+    </priority>
+  </priorities>
+</chummer>
