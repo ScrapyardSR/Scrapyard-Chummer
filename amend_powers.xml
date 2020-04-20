@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This file is part of Chummer5a.Chummer5a is free software: you can redistribute it and/or modifyit under the terms of the GNU General Public License as published bythe Free Software Foundation, either version 3 of the License, or(at your option) any later version.Chummer5a is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied warranty ofMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See theGNU General Public License for more details.You should have received a copy of the GNU General Public Licensealong with Chummer5a. If not, see <http://www.gnu.org/licenses/>.You can obtain the full source code for Chummer5a athttps://github.com/chummer5a/chummer5a -->
+
+<chummer xsi:schemaLocation="http://www.w3.org/2001/XMLSchema powers.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <powers>
+    <power>
+      <name>Sustenance</name>
+      <bonus>
+        <lifestylecost>-10</lifestylecost>
+      </bonus>
+    </power>
+  </powers>
+</chummer>

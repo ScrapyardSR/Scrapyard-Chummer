@@ -39,5 +39,9 @@
       <name>Fake SIN</name> <!--Hiding Fake SIN in favor of the new SINs-->
       <hide />
     </gear>
+    <gear>
+      <name>Medkit</name>
+      <hide />
+    </gear>
   </gears>
 </chummer>
