@@ -45,6 +45,11 @@
             <name>Corporate Limited Fake SIN</name>
             <name>Full Corporate Fake SIN</name>
             <name>Tribal (Amerindian or African) Fake SIN</name>
+            <name>Dead SIN</name>
+            <name>National SIN</name>
+            <name>Criminal SIN</name>
+            <name>Corporate Limited SIN</name>
+            <name>Corporate SIN</name>
           </OR>
         </geardetails>
       </forbidden>
@@ -79,6 +84,11 @@
             <name>Corporate Limited Fake SIN</name>
             <name>Full Corporate Fake SIN</name>
             <name>Tribal (Amerindian or African) Fake SIN</name>
+            <name>Dead SIN</name>
+            <name>National SIN</name>
+            <name>Criminal SIN</name>
+            <name>Corporate Limited SIN</name>
+            <name>Corporate SIN</name>
           </OR>
         </geardetails>
       </forbidden>
@@ -113,6 +123,11 @@
             <name>Corporate Limited Fake SIN</name>
             <name>Full Corporate Fake SIN</name>
             <name>Tribal (Amerindian or African) Fake SIN</name>
+            <name>Dead SIN</name>
+            <name>National SIN</name>
+            <name>Criminal SIN</name>
+            <name>Corporate Limited SIN</name>
+            <name>Corporate SIN</name>
           </OR>
         </geardetails>
       </forbidden>
@@ -147,6 +162,11 @@
             <name>Corporate Limited Fake SIN</name>
             <name>Full Corporate Fake SIN</name>
             <name>Tribal (Amerindian or African) Fake SIN</name>
+            <name>Dead SIN</name>
+            <name>National SIN</name>
+            <name>Criminal SIN</name>
+            <name>Corporate Limited SIN</name>
+            <name>Corporate SIN</name>
           </OR>
         </geardetails>
       </forbidden>
@@ -181,6 +201,11 @@
             <name>Corporate Limited Fake SIN</name>
             <name>Full Corporate Fake SIN</name>
             <name>Tribal (Amerindian or African) Fake SIN</name>
+            <name>Dead SIN</name>
+            <name>National SIN</name>
+            <name>Criminal SIN</name>
+            <name>Corporate Limited SIN</name>
+            <name>Corporate SIN</name>
           </OR>
         </geardetails>
       </forbidden>
@@ -189,49 +214,6 @@
       <addoncategory>Custom</addoncategory>
       <allowrename>True</allowrename>
     </gear>
-    <!--<gear>
-      <id>4498a107-34bb-458b-b112-9ad447324d2b</id>
-      <name>Legal SIN</name>
-      <category>ID/Credsticks</category>
-      <source>SR5</source>
-      <page>442</page>
-      <avail>0</avail>
-      <gears>
-        <usegear>
-            <name>Issuing Body</name>
-            <category>ID/Credsticks</category>
-        </usegear>
-      </gears>
-      <bonus>
-        <selecttext />
-      </bonus>
-      <required>
-        <oneof>
-          <quality>SINner (Corporate)</quality>
-          <quality>SINner (Criminal)</quality>
-          <quality>SINner (National)</quality>
-          <quality>SINner (Corporate Limited)</quality>
-          <quality>Dead SIN</quality>
-        </oneof>
-      </required>
-      <forbidden>
-        <geardetails>
-          <OR>
-            <name>Legal SIN</name>
-            <name>Fake SIN</name>
-            <name>Criminal Fake SIN</name>
-            <name>National (Cooperative) Fake SIN</name>
-            <name>National (Isolationist) Fake SIN</name>
-            <name>Corporate Limited Fake SIN</name>
-            <name>Full Corporate Fake SIN</name>
-          </OR>
-        </geardetails>
-      </forbidden>
-      <cost>0</cost>
-      <addoncategory>ID/Credsticks</addoncategory>
-      <addoncategory>Custom</addoncategory>
-      <allowrename>True</allowrename>
-    </gear>-->
     <gear>
       <id>5e638fe5-45c6-48e5-a714-d930b0806b05</id>
       <name>Legal License</name>
@@ -248,8 +230,13 @@
         <geardetails>
           <OR>
             <category>Custom</category>
-            <name>Legal SIN</name>
+            <!--<name>Legal SIN</name> -->
             <name>Credstick, Standard (2050)</name>
+            <name>Dead SIN</name>
+            <name>National SIN</name>
+            <name>Criminal SIN</name>
+            <name>Corporate Limited SIN</name>
+            <name>Corporate SIN</name>
             <name>Dead SIN</name>
             <name>National SIN</name>
             <name>Criminal SIN</name>
@@ -280,7 +267,7 @@
             <name>Corporate Limited Fake SIN</name>
             <name>Full Corporate Fake SIN</name>
             <name>Tribal (Amerindian or African) Fake SIN</name>
-            <name>Legal SIN</name>
+            <!--<name>Legal SIN</name> -->
             <name>Dead SIN</name>
             <name>National SIN</name>
             <name>Criminal SIN</name>
@@ -319,6 +306,11 @@
             <name>National (Isolationist) Fake SIN</name>
             <name>Corporate Limited Fake SIN</name>
             <name>Full Corporate Fake SIN</name>
+            <name>Dead SIN</name>
+            <name>National SIN</name>
+            <name>Criminal SIN</name>
+            <name>Corporate Limited SIN</name>
+            <name>Corporate SIN</name>
           </OR>
         </geardetails>
       </forbidden>
@@ -394,7 +386,7 @@
       <forbidden>
         <geardetails>
           <OR>
-            <name>Legal SIN</name>
+            <!--<name>Legal SIN</name> -->
             <name>Fake SIN</name>
             <name>Criminal Fake SIN</name>
             <name>National (Cooperative) Fake SIN</name>
@@ -438,7 +430,7 @@
       <forbidden>
         <geardetails>
           <OR>
-            <name>Legal SIN</name>
+            <!--<name>Legal SIN</name>-->
             <name>Fake SIN</name>
             <name>Criminal Fake SIN</name>
             <name>National (Cooperative) Fake SIN</name>
@@ -482,7 +474,7 @@
       <forbidden>
         <geardetails>
           <OR>
-            <name>Legal SIN</name>
+            <!--<name>Legal SIN</name> -->
             <name>Fake SIN</name>
             <name>Criminal Fake SIN</name>
             <name>National (Cooperative) Fake SIN</name>
@@ -526,7 +518,7 @@
       <forbidden>
         <geardetails>
           <OR>
-            <name>Legal SIN</name>
+            <!--<name>Legal SIN</name> -->
             <name>Fake SIN</name>
             <name>Criminal Fake SIN</name>
             <name>National (Cooperative) Fake SIN</name>
