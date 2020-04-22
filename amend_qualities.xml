@@ -188,17 +188,17 @@ If two or more characters have this quality, use ERIC (Edge, Reaction, Intuition
           <rating>6</rating>
           <children amendoperation="replace">
             <child>
-              <name>Legal License</name>
+              <name>License</name>
               <category>ID/Credsticks</category>
               <rating>3</rating>
             </child>
             <child>
-              <name>Legal License</name>
+              <name>License</name>
               <category>ID/Credsticks</category>
               <rating>3</rating>
             </child>
             <child>
-              <name>Legal License</name>
+              <name>License</name>
               <category>ID/Credsticks</category>
               <rating>3</rating>
             </child>
