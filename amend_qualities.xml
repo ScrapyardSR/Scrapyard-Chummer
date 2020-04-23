@@ -87,6 +87,15 @@
     <!--Region Run Faster -->
     <!--Region Run Faster Positive Qualities -->
     <quality>
+      <name>Made Man</name>
+      <bonus>
+        <addcontact>
+          <connection>2</connection>
+          <canwrite/>
+        </addcontact>
+      </bonus>
+    </quality>
+    <quality>
       <id>e07fc29c-55cc-46b3-af56-3b1de76f0a89</id>
       <name>Friends in High Places</name>
       <notes>A third restriction is added to Friends in High Places: The sum of Connection and Loyalty for each contact purchased with the Friends in High Places bonus karma may not exceed 12.</notes>
@@ -128,7 +137,6 @@
     <!-- Region Howling Shadows -->
     <!-- End Region -->
     <!-- Region Cutting Aces -->
-    <!-- Region Negative Qualities -->
     <!-- End Region -->
     <!-- End Region -->
     <!-- Region Forbidden Arcana -->
