@@ -91,7 +91,7 @@
       <bonus>
         <addcontact>
           <connection>2</connection>
-          <canwrite/>
+          <!--<canwrite/>-->
         </addcontact>
       </bonus>
     </quality>
