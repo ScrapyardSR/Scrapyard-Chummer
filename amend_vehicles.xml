@@ -23,6 +23,11 @@
       <id>4e9da56b-622c-439f-9718-98ac3a792351</id>
       <name>Standard</name>
       <weaponcategories>Tasers,Holdouts,Light Pistols,Crossbows,Heavy Pistols,Assault Rifles,Sniper Rifles,Shotguns,Exotic Ranged Weapons,Flamethrowers,Special Weapons</weaponcategories>
+      <required>
+        <vehicledetails>
+          <category operation="contains" NOT="">Drones</category>
+        </vehicledetails>
+      </required>
       <forbidden>
         <weapons>
           <weapon>
@@ -31,6 +36,22 @@
         </weapons>
       </forbidden>
     </weaponmount>
+    <weaponmount>
+      <name>Light</name>
+      <required>
+        <vehicledetails>
+          <category operation="contains" NOT="">Drones</category>
+        </vehicledetails>
+      </required>
+    </weaponmount>
+    <weaponmount>
+      <name>Heavy</name>
+      <required>
+        <vehicledetails>
+          <category operation="contains" NOT="">Drones</category>
+        </vehicledetails>
+      </required>
+    </weaponmount>      
     <weaponmount>
       <id>a567c5d3-38b8-496a-add8-1e176384e935</id>
       <name>Heavy [SR5]</name>
@@ -41,9 +62,5 @@
       <name>Standard [SR5]</name>
       <hide/>
     </weaponmount>
-  <!--   <weaponmount>
-      <id>52973ba7-3dbb-49fe-9a4c-8105eb6ab4bc</id>
-      <name amendoperation="replace">Luci hates Heavy (Drone)</name>
-    </weaponmount> -->
   </weaponmounts>
 </chummer>
