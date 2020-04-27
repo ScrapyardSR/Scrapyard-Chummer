@@ -31,7 +31,7 @@
       <bonus>
         <selecttext amendoperation="remove" />
         <addgear>
-            <name>Corporate SIN</name><!--Legal Sin -->
+            <name>Corporate SIN</name>
             <category>ID/Credsticks</category>
             <rating>0</rating>
         </addgear>
@@ -42,7 +42,7 @@
       <bonus>
         <selecttext amendoperation="remove" />
         <addgear>
-            <name>National SIN</name> <!--Legal Sin -->
+            <name>National SIN</name>
             <category>ID/Credsticks</category>
             <rating>0</rating>
         </addgear>
@@ -53,7 +53,7 @@
       <bonus>
         <selecttext amendoperation="remove" />
         <addgear>
-            <name>Corporate Limited SIN</name> <!--Legal Sin -->
+            <name>Corporate Limited SIN</name>
             <category>ID/Credsticks</category>
             <rating>0</rating>
         </addgear>
@@ -64,7 +64,7 @@
       <bonus>
         <selecttext amendoperation="remove" />
         <addgear>
-            <name>Criminal SIN</name> <!--Legal Sin -->
+            <name>Criminal SIN</name>
             <category>ID/Credsticks</category>
             <rating>0</rating>
         </addgear>
@@ -192,7 +192,7 @@ If two or more characters have this quality, use ERIC (Edge, Reaction, Intuition
       <name>Dead SIN</name>
        <bonus>
         <addgear xpathfilter="">
-          <name amendoperation="replace">Dead SIN</name> <!--Legal Sin -->
+          <name amendoperation="replace">Dead SIN</name> 
           <category>ID/Credsticks</category>
           <children amendoperation="replace">
             <child>
