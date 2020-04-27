@@ -25,11 +25,12 @@
       <required>
         <geardetails>
           <OR xpathfilter="">
-            <name amendoperation="addnode">Criminal Fake SIN</name>
-            <name amendoperation="addnode">National (Cooperative) Fake SIN</name>
-            <name amendoperation="addnode">National (Isolationist) Fake SIN</name>
-            <name amendoperation="addnode">Corporate Limited Fake SIN</name>
-            <name amendoperation="addnode">Full Corporate Fake SIN</name>
+            <name amendoperation="addnode">Fake SIN, Criminal</name>
+            <name amendoperation="addnode">Fake SIN, National (Cooperative)</name>
+            <name amendoperation="addnode">Fake SIN, National (Isolationist)</name>
+            <name amendoperation="addnode">Fake SIN, Corporate Limited</name>
+            <name amendoperation="addnode">Fake SIN, Full Corporate</name>
+            <name amendoperation="addnode">Fake SIN, Tribal (Amerindian or African)</name>
             <!--<name amendoperation="addnode">Legal SIN</name> -->
           </OR>
         </geardetails>
