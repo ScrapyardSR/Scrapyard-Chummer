@@ -26,11 +26,18 @@
       <name>Essence Expansion</name>
       <hide />
     </metamagic>
+    <metamagic>
+      <name>Quickening</name>
+      <hide />
+    </metamagic>
+    <metamagic>
+      <name>Anchoring</name>
+    </metamagic>
   </metamagics>
-  <arts>
+  <!--<arts>
     <art>
       <name>Quickening</name>
       <hide />
     </art>
-  </arts>
+  </arts>-->
 </chummer>
