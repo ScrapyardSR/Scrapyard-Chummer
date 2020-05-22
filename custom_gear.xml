@@ -1035,6 +1035,70 @@
         <damage>-1</damage>
       </weaponbonus>
     </gear>
+    <gear>
+      <id>79b16d23-4390-4fe4-9899-a86f77c77d86</id>
+      <name>Ammo: Flechette HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>16F</avail>
+      <cost>71.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>4</ap>
+        <damage>2</damage>
+        <damagetype>P(f)</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>5916ab26-7d40-4193-b32a-42839e2e87cb</id>
+      <name>Ammo: Flechette HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>16F</avail>
+      <cost>81.25</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>4</ap>
+        <damage>2</damage>
+        <damagetype>P(f)</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>569c5964-67ce-4cdf-a398-f392ff8fc605</id>
+      <name>Ammo: Flechette HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>16F</avail>
+      <cost>71.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>5</ap>
+        <damage>3</damage>
+        <damagetype>P(f)</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>ce9ea9f5-4906-4ac5-aaf0-795320781d04</id>
+      <name>Ammo: Flechette HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>16F</avail>
+      <cost>81.25</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>5</ap>
+        <damage>3</damage>
+        <damagetype>P(f)</damagetype>
+      </weaponbonus>
+    </gear>
     <!--End Ammo Region-->
   </gears>
 </chummer>
