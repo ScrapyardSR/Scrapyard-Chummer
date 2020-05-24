@@ -553,7 +553,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>16F</avail>
+      <avail>12F</avail>
       <cost>132</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -581,7 +581,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>16F</avail>
+      <avail>12F</avail>
       <cost>132</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -612,7 +612,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>14F</avail>
+      <avail>12F</avail>
       <cost>440</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -626,7 +626,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>14F</avail>
+      <avail>16F</avail>
       <cost>500</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -640,7 +640,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>14F</avail>
+      <avail>12F</avail>
       <cost>440</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -654,7 +654,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>14F</avail>
+      <avail>16F</avail>
       <cost>500</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -668,7 +668,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>18R</avail>
+      <avail>14R</avail>
       <cost>132</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -696,7 +696,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>18R</avail>
+      <avail>14R</avail>
       <cost>132</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -726,7 +726,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>6</avail>
+      <avail>2</avail>
       <addoncategory>Drugs</addoncategory>
       <addoncategory>Toxins</addoncategory>
       <addoncategory>Custom</addoncategory>
@@ -764,7 +764,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>6</avail>
+      <avail>2</avail>
       <addoncategory>Drugs</addoncategory>
       <addoncategory>Toxins</addoncategory>
       <addoncategory>Custom</addoncategory>
@@ -802,7 +802,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>18F</avail>
+      <avail>14F</avail>
       <cost>132</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -832,7 +832,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>18F</avail>
+      <avail>14F</avail>
       <cost>132</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -862,7 +862,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>32F</avail>
+      <avail>28F</avail>
       <cost>1100</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -892,7 +892,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>32F</avail>
+      <avail>28F</avail>
       <cost>1100</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -922,7 +922,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>13F</avail>
+      <avail>9F</avail>
       <cost>88</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -952,7 +952,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>13F</avail>
+      <avail>9F</avail>
       <cost>88</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -982,7 +982,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>12F</avail>
+      <avail>6R</avail>
       <cost>22</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -997,7 +997,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>12F</avail>
+      <avail>10R</avail>
       <cost>25</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -1012,7 +1012,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>12F</avail>
+      <avail>6R</avail>
       <cost>22</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -1027,7 +1027,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>12F</avail>
+      <avail>10R</avail>
       <cost>25</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -1042,7 +1042,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>16F</avail>
+      <avail>6R</avail>
       <cost>71.5</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -1058,7 +1058,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>16F</avail>
+      <avail>10R</avail>
       <cost>81.25</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -1074,7 +1074,7 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>16F</avail>
+      <avail>6R</avail>
       <cost>71.5</cost>
       <costfor>10</costfor>
       <weaponbonus>
@@ -1090,13 +1090,1006 @@
       <rating>0</rating>
       <source>HT</source>
       <page>189</page>
-      <avail>16F</avail>
+      <avail>10R</avail>
       <cost>81.25</cost>
       <costfor>10</costfor>
       <weaponbonus>
         <ap>5</ap>
         <damage>3</damage>
         <damagetype>P(f)</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>48b80587-0158-4b92-8e87-9fef2e01a8fe</id>
+      <name>Ammo: Frangible HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>2R</avail>
+      <cost>11</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>3</ap>
+        <damage>-1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>8156a061-cc97-4b69-9ae6-f5c7d10e67a0</id>
+      <name>Ammo: Frangible HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>6R</avail>
+      <cost>12.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>3</ap>
+        <damage>-1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>c4c0dc0f-5e44-446e-a19c-df9c4c12d578</id>
+      <name>Ammo: Frangible HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>2R</avail>
+      <cost>11</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>4</ap>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>04f70e1d-33e9-47f5-8642-4059c22b71a1</id>
+      <name>Ammo: Frangible HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>6R</avail>
+      <cost>12.5
+      </cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>4</ap>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>555cf05d-59da-4db3-a669-5870c07371b6</id>
+      <name>Ammo: Gel HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>2R</avail>
+      <cost>27.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damagetype>S</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>a8defc26-53e3-4528-8f68-82e2907149d1</id>
+      <name>Ammo: Gel HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>6R</avail>
+      <cost>31.25</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damagetype>S</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>991f7a8c-a488-46e4-80b5-d8737ec99762</id>
+      <name>Ammo: Gel HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>2R</avail>
+      <cost>27.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>1</ap>
+        <damage>1</damage>
+        <damagetype>S</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>0a876d3a-6e31-4057-bf7d-47ef2b49afe8</id>
+      <name>Ammo: Gel HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>6R</avail>
+      <cost>31.25</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>1</ap>
+        <damage>1</damage>
+        <damagetype>S</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>da7ff65f-31d8-4313-aa8d-d977568a2e9d</id>
+      <name>Ammo: Gyrojet HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>15</avail>
+      <cost>176</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-6</ap>
+        <damage>-2S(e)</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>79b7f24b-eeb9-45b9-9bab-86791259b672</id>
+      <name>Ammo: Gyrojet HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>19</avail>
+      <cost>200</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-6</ap>
+        <damage>-2S(e)</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>faa43b26-6ddb-49ce-9828-554807322c7d</id>
+      <name>Ammo: Gyrojet HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>15</avail>
+      <cost>176</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-5</ap>
+        <damage>-1S(e)</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>5b2b6b8b-335a-4115-85ad-7e5cfc1278ee</id>
+      <name>Ammo: Gyrojet HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>19</avail>
+      <cost>200</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-5</ap>
+        <damage>-1S(e)</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>db815d48-2046-4d91-aa08-536587366699</id>
+      <name>Ammo: Hi-De HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>10F</avail>
+      <cost>165</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>94e5501c-7445-480e-842a-c3859c12e508</id>
+      <name>Ammo: Hi-De HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>14F</avail>
+      <cost>187.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>ec1ed440-53b3-4bba-b1b8-0eca37405f2f</id>
+      <name>Ammo: Hi-De HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>10F</avail>
+      <cost>165</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damage>1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>051530b9-ebc4-46a8-92b9-8846612b91ec</id>
+      <name>Ammo: Hi-De HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>14F</avail>
+      <cost>187.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damage>1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>602e2b4c-f7d6-4400-8eeb-510abc644fd4</id>
+      <name>Ammo: Hollow Point HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>4F</avail>
+      <cost>77</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>1</ap>
+        <damage>1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>523ee2bd-722f-41d3-be96-f6bfcaa8c626</id>
+      <name>Ammo: Hollow Point HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>8F</avail>
+      <cost>87.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>1</ap>
+        <damage>1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>6545318f-ec11-40c4-b61d-6e4dd8b1418f</id>
+      <name>Ammo: Hollow Point HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>4F</avail>
+      <cost>77</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>2</ap>
+        <damage>2</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>8b966e21-0d6d-4db6-a209-747154479920</id>
+      <name>Ammo: Hollow Point HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>8F</avail>
+      <cost>87.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>2</ap>
+        <damage>2</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>c58fba52-92cf-4826-a517-33eac2fe9537</id>
+      <name>Ammo: Regular Ammo HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>2R</avail>
+      <cost>22</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>1964e73b-bb03-417f-89f3-51a6411b26fc</id>
+      <name>Ammo: Regular Ammo HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>6R</avail>
+      <cost>25</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>96dd9f87-c224-4557-91a3-b4f873689169</id>
+      <name>Ammo: Regular Ammo HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>2R</avail>
+      <cost>22</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damage>1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>a6034f51-673d-4460-98b0-d50f89a68140</id>
+      <name>Ammo: Regular Ammo HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>6R</avail>
+      <cost>25</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damage>1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>f73b7a3d-ced3-4a73-a4f8-df5b7f1773ed</id>
+      <name>Ammo: Renraku/Ingram Supermach HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>16F</avail>
+      <cost>22</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>d1a9add5-7b0e-423d-916b-6c58959f9dea</id>
+      <name>Ammo: Renraku/Ingram Supermach HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>20F</avail>
+      <cost>25</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>dd37af1a-de80-4cbb-8995-98bf94916ca0</id>
+      <name>Ammo: Renraku/Ingram Supermach HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>16F</avail>
+      <cost>22</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damage>1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>b4c3d548-2915-4efb-9af3-2bbc3f78302f</id>
+      <name>Ammo: Renraku/Ingram Supermach HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>20F</avail>
+      <cost>25</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damage>1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>75fd062c-bc52-412d-b3e1-4e5fdea0b09b</id>
+      <name>Ammo: Silver HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>12R</avail>
+      <cost>275</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>+1</ap>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>f405f59d-740c-4367-9411-6385c18252d0</id>
+      <name>Ammo: Silver HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>16R</avail>
+      <cost>312.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>+1</ap>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>b4f8aaec-d169-42ec-af85-94e24a59e2f9</id>
+      <name>Ammo: Silver HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>12R</avail>
+      <cost>275</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>+2</ap>
+        <damage>1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>02e131e8-8ecc-49e9-b347-3dee18b04f3e</id>
+      <name>Ammo: Silver HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>16R</avail>
+      <cost>312.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>+2</ap>
+        <damage>1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>7f400c86-ead5-477c-a3ac-0b25017640c8</id>
+      <name>Ammo: Stick-n-Shock HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>6R</avail>
+      <cost>88</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <apreplace>-6</apreplace>
+        <damage>-2</damage>
+        <damagetype>S(e)</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>aaad1b6a-49c3-4a54-aa8b-a9fc87d49dc3</id>
+      <name>Ammo: Stick-n-Shock HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>10R</avail>
+      <cost>100</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <apreplace>-6</apreplace>
+        <damage>-2</damage>
+        <damagetype>S(e)</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>db70c68a-0df4-44d7-acf1-2e3e8ec26006</id>
+      <name>Ammo: Stick-n-Shock HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>6R</avail>
+      <cost>88</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <apreplace>-5</apreplace>
+        <damage>-1</damage>
+        <damagetype>S(e)</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>828abb5f-365b-40c3-b2d6-52f2ae3dd5e0</id>
+      <name>Ammo: Stick-n-Shock HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>10R</avail>
+      <cost>100</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <apreplace>-5</apreplace>
+        <damage>-1</damage>
+        <damagetype>S(e)</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>52960684-3420-492f-a542-f8144bc43e2f</id>
+      <name>Ammo: Stick-n-Shock Flechette Rounds HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>6R</avail>
+      <cost>121</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+        <damagetype>S(e)</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>6e805008-c9f8-489f-975e-0e7beeb91301</id>
+      <name>Ammo: Stick-n-Shock Flechette Rounds HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>10R</avail>
+      <cost>137.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+        <damagetype>S(e)</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>7d0fcaee-8dbb-43e1-b282-6c3a221f0364</id>
+      <name>Ammo: Stick-n-Shock Flechette Rounds HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>6R</avail>
+      <cost>121</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damage>1</damage>
+        <damagetype>S(e)</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>943f7ec2-fbe5-413d-92e4-ea61701e106a</id>
+      <name>Ammo: Stick-n-Shock Flechette Rounds HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>10R</avail>
+      <cost>137.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damage>1</damage>
+        <damagetype>S(e)</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>84ee5fbf-fbc7-4e45-a402-b907f52f3b62</id>
+      <name>Ammo: Subsonic HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>8F</avail>
+      <cost>44</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+        <damage>-1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>5f1a96fa-abd0-4ade-ace8-9e47992dba86</id>
+      <name>Ammo: Subsonic HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>12F</avail>
+      <cost>50</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+        <damage>-1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>9771e28f-9077-4e52-be0a-c00bdebdb6a4</id>
+      <name>Ammo: Subsonic HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>8F</avail>
+      <cost>44</cost>
+      <costfor>10</costfor>
+    </gear>
+    <gear>
+      <id>5b80c725-103c-4817-b135-c1e498ba12b0</id>
+      <name>Ammo: Subsonic HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>12F</avail>
+      <cost>50</cost>
+      <costfor>10</costfor>
+    </gear>
+    <gear>
+      <id>de8a396a-c3fd-4b1f-8cf7-5eaa511f0f4d</id>
+      <name>Ammo: Taurus Omni-6 Heavy HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>2R</avail>
+      <cost>22</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <apreplace>-2</apreplace>
+        <damagereplace>7P</damagereplace>
+        <modereplace>SS</modereplace>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>53632371-451f-4767-a059-1b856b0adb35</id>
+      <name>Ammo: Taurus Omni-6 Heavy HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>6R</avail>
+      <cost>25</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <apreplace>-2</apreplace>
+        <damagereplace>7P</damagereplace>
+        <modereplace>SS</modereplace>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>fb800cc2-2930-46e5-8d7b-8bb1f190d2d1</id>
+      <name>Ammo: Taurus Omni-6 Heavy HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>2R</avail>
+      <cost>22</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <apreplace>-1</apreplace>
+        <damagereplace>8P</damagereplace>
+        <modereplace>SS</modereplace>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>c742b6c2-339d-425a-9be7-8d513fd0f5a5</id>
+      <name>Ammo: Taurus Omni-6 Heavy HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>6R</avail>
+      <cost>25</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <apreplace>-1</apreplace>
+        <damagereplace>8P</damagereplace>
+        <modereplace>SS</modereplace>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>ab6e7770-c90d-4d2c-a11d-74fbd06c79d6</id>
+      <name>Ammo: Tracer HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>6R</avail>
+      <cost>66</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>a9663337-7150-49b3-9763-817e24c2cd31</id>
+      <name>Ammo: Tracer HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>10R</avail>
+      <cost>75</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>f39bf194-b8bb-4553-9ca6-fc26e488c150</id>
+      <name>Ammo: Tracer HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>6R</avail>
+      <cost>66</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damage>1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>51d11e80-8e16-45f6-b48c-57e420ce0659</id>
+      <name>Ammo: Tracer HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>10R</avail>
+      <cost>75</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damage>1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>5f2d3ea6-0a9b-4b84-a045-d79ad5946dee</id>
+      <name>Ammo: Tracker Rounds, Security Tag HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>8R</avail>
+      <cost>165</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>20b914d1-ad5f-4b4c-837b-8e765d9c7b19</id>
+      <name>Ammo: Tracker Rounds, Security Tag HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>12R</avail>
+      <cost>187.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>8bb60de9-7f45-4828-ac74-ba7a17a3f156</id>
+      <name>Ammo: Tracker Rounds, Security Tag HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>8R</avail>
+      <cost>165</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damage>1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>b310553a-4296-48b3-a241-b78c9ff63482</id>
+      <name>Ammo: Tracker Rounds, Security Tag HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>12R</avail>
+      <cost>187.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damage>1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>2671ffc0-3330-49b8-805c-e4affd2084cf</id>
+      <name>Ammo: Tracker Rounds, Stealth Tag HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>8R</avail>
+      <cost>165</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>9a5e2ec7-1e3d-4516-97f2-8eb383d621a1</id>
+      <name>Ammo: Tracker Rounds, Stealth Tag HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>12R</avail>
+      <cost>187.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>74081fb3-fb77-4eed-98b1-af3289f2bcee</id>
+      <name>Ammo: Tracker Rounds, Stealth Tag HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>8R</avail>
+      <cost>165</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damage>1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>827541ae-1311-4ed1-afcb-d679bb933605</id>
+      <name>Ammo: Tracker Rounds, Stealth Tag HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>12R</avail>
+      <cost>187.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damage>1</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>144c19b4-01d7-4705-861d-f0e9e3f3ca82</id>
+      <name>Ammo: Wood Pulp HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>6R</avail>
+      <cost>11</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>+3</ap>
+        <damage>-4</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>6b3c5097-90d3-42ce-9f49-f8dcae98ba43</id>
+      <name>Ammo: Wood Pulp HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>10R</avail>
+      <cost>12.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>+3</ap>
+        <damage>-4</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>0b30d0dd-fc32-4891-b69a-0831cc2c9a8c</id>
+      <name>Ammo: Wood Pulp HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>6R</avail>
+      <cost>11</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>+4</ap>
+        <damage>-3</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>867dfe2d-0eed-460d-974d-1df78ea47cee</id>
+      <name>Ammo: Wood Pulp HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>10R</avail>
+      <cost>12.5</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>+4</ap>
+        <damage>-3</damage>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>6ac657fd-f400-4f07-9c45-a28bb65b9588</id>
+      <name>Ammo: Zapper HL, Self, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>12R</avail>
+      <cost>154</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+        <damagetype>(M)</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>7b244779-84e3-4ae9-8209-98f4070f83e2</id>
+      <name>Ammo: Zapper HL, Bought, -1AP</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>16R</avail>
+      <cost>175</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-1</ap>
+        <damagetype>(M)</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>9e21e45c-efbf-4a5b-b78f-8a83bc9ffd63</id>
+      <name>Ammo: Zapper HL, Self, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>12R</avail>
+      <cost>154</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damage>1</damage>
+        <damagetype>(M)</damagetype>
+      </weaponbonus>
+    </gear>
+    <gear>
+      <id>bc1ef953-9bdf-442a-9f11-4bf35a8d885d</id>
+      <name>Ammo: Zapper HL, Bought, +1DV</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>HT</source>
+      <page>189</page>
+      <avail>16R</avail>
+      <cost>175</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <damage>1</damage>
+        <damagetype>(M)</damagetype>
       </weaponbonus>
     </gear>
     <!--End Ammo Region-->
