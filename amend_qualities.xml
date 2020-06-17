@@ -75,6 +75,16 @@
       <name>Aspected Magician</name>
       <hide />
     </quality>
+    <quality>
+      <name>Mentor Spirit</name>
+      <required>
+        <oneof>
+          <quality amendoperation="addnode">Aspected Enchanter</quality>
+          <quality amendoperation="addnode">Aspected Conjuror</quality>
+          <quality amendoperation="addnode">Aspected Sorcerer</quality>
+        </oneof>
+      </required>
+    </quality>
     <!-- End Region-->
     <!--Region Bullets and Bandages Negative Qualities -->
     <quality>
@@ -192,7 +202,7 @@ If two or more characters have this quality, use ERIC (Edge, Reaction, Intuition
       <name>Dead SIN</name>
        <bonus>
         <addgear xpathfilter="">
-          <name amendoperation="replace">Dead SIN</name> 
+          <name amendoperation="replace">Dead SIN</name>
           <category>ID/Credsticks</category>
           <children amendoperation="replace">
             <child>
