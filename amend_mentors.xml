@@ -23,6 +23,48 @@
       <id>240ab0aa-6be1-452b-88c2-f10f6f6eabfb</id>
       <name>Weimaraner</name>
       <disadvantage amendoperation="replace">Followers of Weimaraner are easily bored and enjoy using their abilities to challenge themselves. If a Weimerar has not undergone an interesting challenge to their abilities in the last 12 hours and a good opportunity to challenge their magic shows itself (GM discretion), they must make a Composure (3) test to avoid attempting to do so, even if it's risky or not socially acceptable. </disadvantage>
+      <source>SOTGSY</source>
+      <page>39</page>
+    </mentor>
+    <mentor>
+      <name>Architect</name>
+      <source>SOTGSY</source>
+      <page>39</page>
+    </mentor>
+    <mentor>
+      <name>Doberman</name>
+      <source>SOTGSY</source>
+      <page>40</page>
+    </mentor>
+    <mentor>
+      <name>German Shepherd</name>
+      <source>SOTGSY</source>
+      <page>40</page>
+    </mentor>
+    <mentor>
+      <name>Badger</name>
+      <source>SOTGSY</source>
+      <page>41</page>
+    </mentor>
+    <mentor>
+      <name>Mystic Guardian</name>
+      <source>SOTGSY</source>
+      <page>41</page>
+    </mentor>
+    <mentor>
+      <name>Little Red Riding Hood</name>
+      <source>SOTGSY</source>
+      <page>42</page>
+    </mentor>
+    <mentor>
+      <name>Treasure Hunter</name>
+      <source>SOTGSY</source>
+      <page>42</page>
+    </mentor>
+    <mentor>
+      <name>Brother at Arms</name>
+      <source>SOTGSY</source>
+      <page>43</page>
     </mentor>
   </mentors>
 </chummer>

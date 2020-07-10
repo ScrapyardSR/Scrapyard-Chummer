@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.w3.org/2001/XMLSchema traditions.xsd">
+
+  <traditions>
+    <tradition>
+      <id>19658ea3-5ac7-47e6-8312-eb323929af69</id>
+      <name>Friesen Magic</name>
+      <drain>WIL + LOG</drain>
+      <source>SOTGSY</source>
+      <page>32</page>
+      <spirits>
+        <spiritcombat>Spirit of Water</spiritcombat>
+        <spiritdetection>Spirit of Earth</spiritdetection>
+        <spirithealth>Spirit of Guidance</spirithealth>
+        <spiritillusion>Spirit of Air</spiritillusion>
+        <spiritmanipulation>Spirit of Plant</spiritmanipulation>
+      </spirits>
+    </tradition>
+    <tradition>
+      <id>1f35238e-6e3f-45fa-a2dc-76a96e6265af</id>
+      <name>The Tradition of the Freudians</name>
+      <drain>WIL + LOG</drain>
+      <source>SOTGSY</source>
+      <page>34</page>
+      <spirits>
+        <spiritcombat>Spirit of Fire</spiritcombat>
+        <spiritdetection>Spirit of Earth</spiritdetection>
+        <spirithealth>Spirit of Man</spirithealth>
+        <spiritillusion>Spirit of Water</spiritillusion>
+        <spiritmanipulation>Spirit of Air</spiritmanipulation>
+      </spirits>
+    </tradition>
+    <tradition>
+      <id>b98147e3-d2ba-4369-b75b-182967fe7713</id>
+      <name>The Tradition of the Guardian Order</name>
+      <drain>WIL + CHA</drain>
+      <source>SOTGSY</source>
+      <page>36</page>
+      <spirits>
+        <spiritcombat>Spirit of Guardian</spiritcombat>
+        <spiritdetection>Spirit of Guidance</spiritdetection>
+        <spirithealth>Spirit of Earth</spirithealth>
+        <spiritillusion>Spirit of Water</spiritillusion>
+        <spiritmanipulation>Spirit of Task</spiritmanipulation>
+      </spirits>
+    </tradition>
+  </traditions>

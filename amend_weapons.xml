@@ -24,5 +24,15 @@
       <name>Stoner-Ares M-22A1</name>
       <hide />
     </weapon>
+    <weapon>
+      <name>Blaser R11 Conqueror</name>
+      <source>SOTGSY</source>
+      <page>12</page>
+    </weapon>
+    <weapon>
+      <name>HK Urban Assassin</name>
+      <source>SOTGSY</source>
+      <page>13</page>
+    </weapon>
   </weapons>
 </chummer>

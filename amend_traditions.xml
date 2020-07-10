@@ -41,5 +41,15 @@
       <name>Armanentradition</name>
       <hide />
     </tradition>
+    <tradition>
+      <name>Faustianer</name>
+      <source>SOTGSY</source>
+      <page>28</page>
+    </tradition>
+    <tradition>
+        <name>Brocken Witches</name>
+        <source>SOTGSY</source>
+        <page>30</page>
+      </tradition>
   </traditions>
 </chummer>

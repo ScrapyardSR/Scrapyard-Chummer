@@ -24,26 +24,6 @@
 
   <weapons>
     <!-- Region Translated Datapulse 2080 -->
-    <!--<weapon>
-      <id>4558845f-7ea4-47de-b8d9-8b44bd6b3355</id>
-      <name>Rheinmetall Abrissbirne</name>
-      <category>Exotic Melee Weapons</category>
-      <type>Melee</type>
-      <conceal>2</conceal>
-      <accuracy>5</accuracy>
-      <reach>1</reach>
-      <damage>(STR+4)P</damage>
-      <ap>-2</ap>
-      <mode>0</mode>
-      <rc>0</rc>
-      <ammo>0</ammo>
-      <avail>8R</avail>
-      <cost>1000</cost>
-      <source>SOTGSY</source>
-      <page>6</page>-->
-      <!--<spec>Morningstar (Clubs)</spec>-->
-      <!--<useskill>Exotic Melee Weapon</useskill>
-    </weapon>-->
     <weapon>
         <id>4558845f-7ea4-47de-b8d9-8b44bd6b3355</id>
         <name>Rheinmetall Abrissbirne</name>
@@ -84,6 +64,185 @@
       <useskill>Exotic Melee Weapon</useskill>
       <hide />
     </weapon>
+    <weapon>
+      <id>b02c0d35-c8a8-4a30-af70-49bc46fb0cbf</id>
+      <name>Bundeswehr Folding Shovel</name>
+      <category>Blades</category>
+      <type>Melee</type>
+      <conceal>2</conceal>
+      <accuracy>5</accuracy>
+      <reach>1</reach>
+      <damage>(STR+2)P</damage>
+      <ap>-2</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <avail>4</avail>
+      <cost>100</cost>
+      <source>SOTGSY</source>
+      <page>6</page>
+    </weapon>
+    <weapon>
+      <id>c0123d6d-c0f4-4bc7-a1e9-f673b2c15c4e</id>
+      <name>Rheinmetall Abräumer</name>
+      <category>Blades</category>
+      <type>Melee</type>
+      <conceal>4</conceal>
+      <accuracy>5</accuracy>
+      <reach>0</reach>
+      <damage>(STR+3)P</damage>
+      <ap>-2</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <avail>7R</avail>
+      <cost>850</cost>
+      <source>SOTGSY</source>
+      <page>7</page>
+      <addweapon>Rheinmetall Abräumer (Extended)</addweapon>
+    </weapon>
+    <weapon>
+      <id>a80bff80-92d0-467a-8db3-a1ea484d3cfa</id>
+      <name>Rheinmetall Abräumer (Extended)</name>
+      <category>Blades</category>
+      <type>Melee</type>
+      <conceal>4</conceal>
+      <accuracy>5</accuracy>
+      <reach>2</reach>
+      <damage>(STR+3)P</damage>
+      <ap>-2</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <avail>7R</avail>
+      <cost>850</cost>
+      <source>SOTGSY</source>
+      <page>7</page>
+      <hide />
+    </weapon>
+    <weapon>
+      <id>d79429c6-00b0-4765-a14d-a7ddb653e069</id>
+      <name>Walther Broadsword</name>
+      <category>Blades</category>
+      <type>Melee</type>
+      <conceal>4</conceal>
+      <accuracy>8</accuracy>
+      <reach>2</reach>
+      <damage>(STR+4)P</damage>
+      <ap>-4</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <avail>10R</avail>
+      <cost>8600</cost>
+      <source>SOTGSY</source>
+      <page>8</page>
+      <spec>Swords</spec>
+    </weapon>
+    <weapon>
+      <id>d11d3231-976e-447d-b4c6-855730521f36</id>
+      <name>Katzbalger</name>
+      <category>Blades</category>
+      <type>Melee</type>
+      <conceal>4</conceal>
+      <accuracy>7</accuracy>
+      <reach>0</reach>
+      <damage>(STR+3)P</damage>
+      <ap>-1</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <avail>8R</avail>
+      <cost>2000</cost>
+      <source>SOTGSY</source>
+      <page>8</page>
+      <spec>Swords</spec>
+    </weapon>
+    <weapon>
+      <id>d1b60b59-9c2b-4cb9-bbf3-489d2c2b1d42</id>
+      <name>Sabre</name>
+      <category>Blades</category>
+      <type>Melee</type>
+      <conceal>4</conceal>
+      <accuracy>5</accuracy>
+      <reach>1</reach>
+      <damage>(STR+3)P</damage>
+      <ap>-2</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <avail>7R</avail>
+      <cost>2500</cost>
+      <source>SOTGSY</source>
+      <page>9</page>
+      <spec>Swords</spec>
+    </weapon>
+    <weapon>
+      <id>151419b2-2be4-4a50-8c84-362955ab248b</id>
+      <name>Strikecannon</name>
+      <category>Holdouts</category>
+      <type>Ranged</type>
+      <conceal>-4</conceal>
+      <accuracy>2</accuracy>
+      <reach>0</reach>
+      <damage>9P</damage>
+      <ap>-3</ap>
+      <mode>SS</mode>
+      <rc>0</rc>
+      <ammo>1(b)</ammo>
+      <avail>6F</avail>
+      <cost>100</cost>
+      <source>SOTGSY</source>
+      <page>10</page>
+    </weapon>
+    <weapon>
+      <id>3795693a-d8a9-4f4c-a680-8dcba6e86890</id>
+      <name>Blunderbuss</name>
+      <category>Shotguns</category>
+      <type>Ranged</type>
+      <conceal>6</conceal>
+      <accuracy>2</accuracy>
+      <reach>0</reach>
+      <damage>9P(f)</damage>
+      <ap>-1</ap>
+      <mode>SS</mode>
+      <rc>0</rc>
+      <ammo>1-2(b)</ammo>
+      <avail>4F</avail>
+      <cost>150</cost>
+      <source>SOTGSY</source>
+      <page>11</page>
+      <accessorymounts>
+        <mount>Stock</mount>
+        <mount>Side</mount>
+        <mount>Internal</mount>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Under</mount>
+      </accessorymounts>
+      <alternaterange>Shotguns (flechette)</alternaterange>
+    </weapon>
+
     <!-- End Region Translated Datapulse 2080 -->
   </weapons>
+  <accessories>
+    <accessory>
+      <id>c9bbe1ac-26d3-4399-891f-684688f3c9db</id>
+      <name>Onotari Arms Sling-Shot</name>
+      <mount>Under</mount>
+      <accuracy>6</accuracy>
+      <mode>SS</mode>
+      <avail>0</avail>
+      <cost>150</cost>
+      <source>SOTGSY</source>
+      <page>14</page>
+      <rating>0</rating>
+      <required>
+        <weapondetails>
+          <conceal operation="greaterthan">0</conceal>
+        </weapondetails>
+      </required>
+      <useskill>Archery</useskill>
+    </accessory>
+  </accessories>
 </chummer>

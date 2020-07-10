@@ -18,6 +18,12 @@
     https://github.com/chummer5a/chummer5a
 -->
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema weapons.xsd">
+  <vehicles>
+    <vehicle>
+        <name>BMW GGX Sandleopard</name>
+        <source>SOTGSY</source>
+        <page>17</page>
+  </vehicles>
   <weaponmounts>
     <weaponmount>
       <id>4e9da56b-622c-439f-9718-98ac3a792351</id>
@@ -51,7 +57,7 @@
           <category operation="contains" NOT="">Drones</category>
         </vehicledetails>
       </required>
-    </weaponmount>      
+    </weaponmount>
     <weaponmount>
       <id>a567c5d3-38b8-496a-add8-1e176384e935</id>
       <name>Heavy [SR5]</name>
