@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This file is part of Chummer5a.
+
+    Chummer5a is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Chummer5a is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Chummer5a.  If not, see <http://www.gnu.org/licenses/>.
+
+    You can obtain the full source code for Chummer5a at
+    https://github.com/chummer5a/chummer5a
+-->
+<chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.w3.org/2001/XMLSchema vehicles.xsd">
+    <vehicles>
+      <vehicle>
+        <id>24f60f09-6116-4b65-a2ae-5efce20523cf</id>
+        <name>BMW X Infinity THW-Multi</name>
+        <page>20</page>
+        <source>SOTGSY</source>
+        <accel>2</accel>
+        <armor>10</armor>
+        <avail>8</avail>
+        <body>14</body>
+        <category>Cars</category>
+        <cost>125000</cost>
+        <handling>5/5</handling>
+        <pilot>3</pilot>
+        <sensor>5</sensor>
+        <speed>4</speed>
+        <gears>
+          <gear>
+            <name>Sensor Array</name>
+            <rating>5</rating>
+            <maxrating>7</maxrating>
+          </gear>
+        </gears>
+        <mods>
+          <name rating="2">Anti-Theft System</name>
+          <name>Off-Road Suspension</name>
+          <name>Multifuel Engine</name>
+          <name>Amenities (Squatter)</name>
+          <name rating="1">Life Support</name>
+          <name>Retrans Unit</name>
+          <name>Special Armor Modification (Chemical)</name>
+          <name>Special Armor Modification (Radiation)</name>
+          <name>Extra Entry/Exit Points</name>
+        </mods>
+        <weaponmounts>
+          <weaponmount>
+            <control>Manual</control>
+            <flexibility>Fixed</flexibility>
+            <size>Heavy</size>
+            <visibility>External</visibility>
+          </weaponmount>
+        </weaponmounts>
+        <seats>5</seats>
+      </vehicle>
+      <vehicle>
+        <id>981f1220-52f8-42d8-bd22-3f7a1da0b31e</id>
+        <name>BMW X Infinity ZET Commando</name>
+        <page>20</page>
+        <source>SOTGSY</source>
+        <accel>3</accel>
+        <armor>14</armor>
+        <avail>8</avail>
+        <body>16</body>
+        <category>Cars</category>
+        <cost>170000</cost>
+        <handling>3/4</handling>
+        <pilot>4</pilot>
+        <sensor>4</sensor>
+        <speed>4</speed>
+        <gears>
+          <gear>
+            <name>Sensor Array</name>
+            <rating>4</rating>
+            <maxrating>7</maxrating>
+          </gear>
+        </gears>
+        <mods>
+          <name rating="2">Anti-Theft System</name>
+          <name>Off-Road Suspension</name>
+          <name rating="1">Life Support</name>
+          <name>Multifuel Engine</name>
+          <name>Retrans Unit</name>
+          <name>Special Armor Modification (Chemical)</name>
+          <name>Special Armor Modification (Radiation)</name>
+        </mods>
+        <weaponmounts>
+          <weaponmount>
+            <control>Remote</control>
+            <flexibility>Turret</flexibility>
+            <size>Heavy</size>
+            <visibility>External</visibility>
+          </weaponmount>
+        </weaponmounts>
+        <seats>5</seats>
+      </vehicle>
+      <vehicle>
+        <id>8db68678-7326-47f5-81db-447498d15934</id>
+        <name>Porsche-Dornier Aqua 503</name>
+        <page>21</page>
+        <source>SOTGSY</source>
+        <accel>3</accel>
+        <armor>8</armor>
+        <avail>12</avail>
+        <body>8</body>
+        <category>Boats</category>
+        <cost>60000</cost>
+        <handling>5</handling>
+        <pilot>2</pilot>
+        <sensor>3</sensor>
+        <speed>5</speed>
+        <gears>
+          <gear>
+            <name>Sensor Array</name>
+            <rating>3</rating>
+            <maxrating>7</maxrating>
+          </gear>
+        </gears>
+        <mods>
+          <name>Amenities (Squatter)</name>
+          <name>Rigger Interface</name>
+        </mods>
+        <seats>6</seats>
+      </vehicle>
+    </vehicles>
+</chummer>
